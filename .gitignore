@@ -1,0 +1,29 @@
+# Java and Maven
+**/target/
+**/build/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Operating system
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
+
+# Runtime data
+data/
